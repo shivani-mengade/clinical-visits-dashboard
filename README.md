@@ -5,18 +5,18 @@ This repository contains a Clinical Visits Overview Dashboard designed to explor
 
 ## Features
 
-Visual breakdown of patient demographics (gender, age, race)
-Interactive view of departments and service usage
-Analysis of patient wait times and averages
-Disease and wait time correlation chart
-Time-based filtering (by quarter/year)
-Clear, intuitive charts and layouts
+ - Visual breakdown of patient demographics (gender, age, race)
+ - Interactive view of departments and service usage
+ - Analysis of patient wait times and averages
+ - Disease and wait time correlation chart
+ - Time-based filtering (by quarter/year)
+ - Clear, intuitive charts and layouts
 
 ## Dataset
 
-The dataset contains anonymized clinical visit records, including:
-Patient demographics (gender, race, age)
-Visit department information
-Wait times
-Disease classifications
-Time period (quarters/years)
+- The dataset contains anonymized clinical visit records, including:
+- Patient demographics (gender, race, age)
+- Visit department information
+- Wait times
+- Disease classifications
+- Time period (quarters/years)
